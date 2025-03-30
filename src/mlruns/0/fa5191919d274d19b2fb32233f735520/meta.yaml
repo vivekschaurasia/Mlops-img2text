@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/vivek/OneDrive/Desktop/MLOps%20image2text/src/mlruns/0/fa5191919d274d19b2fb32233f735520/artifacts
+end_time: 1742686171466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fa5191919d274d19b2fb32233f735520
+run_name: image-captioning-xception-lstm
+run_uuid: fa5191919d274d19b2fb32233f735520
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742685748501
+status: 3
+tags: []
+user_id: vivek

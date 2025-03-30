@@ -1,0 +1,8 @@
+mlflow
+tensorflow
+nltk
+pillow
+matplotlib
+numpy
+pandas
+tqdm
